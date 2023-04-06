@@ -1,4 +1,7 @@
+
 // TASK 1
+
+// DAY 1
 
 // 5/APRIL/2023
 
@@ -104,5 +107,24 @@
 // var defaultAnswer = "human";
 // var spec = prompt(question, defaultAnswer);
 
-var numberOfCats = prompt("How many pets?");
-var tooManyCats = numberOfpets + 1;
+// var numberOfpets = prompt("How many pets?");
+// var tooManypets = numberOfpets + 1;
+
+
+
+
+
+
+// JAVA SCRIPT FIRST CLASS
+
+// TASK 02
+
+// DAY 02 
+
+// 6-APRIL-2023
+
+
+var zakatPercentage = 0.025;
+var userInput = Number(prompt("Enter a number"));
+var result  =   zakatPercentage * userInput;
+alert("Your zakat value is " + result); 

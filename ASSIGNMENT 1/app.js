@@ -243,6 +243,7 @@
 
 // ANSWER 2
 
+
 var WorldCupSquad = ["babar", "shaheen", "rizwan", "shadab", "ihsanullah", "naseem", "fakhar", "hasnain", "shahid afridi", "asif", "saim", "rauf", "haris", "malik", "ifti"];
 
 var WorldCupSquadCopy = WorldCupSquad.slice();

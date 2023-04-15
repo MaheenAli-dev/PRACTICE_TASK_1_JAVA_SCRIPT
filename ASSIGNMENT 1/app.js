@@ -77,7 +77,7 @@
 // ANSWER
 
 // var secretNumber = 7;
-// var guess = prompt("Guess the secret number (between 1 and 10):");
+// var guess = Number(prompt("Guess the secret number (between 1 and 10):"));
 // if (guess == secretNumber) {
 //     alert("Congratulations! You guessed the secret number.");
 // } else if (guess < secretNumber) {
@@ -161,7 +161,7 @@
 
 // var products = ['Apple', 'Hockey', 'Orange', 'Cat', 'watermalon'];
 
-// var position = prompt("Enter the position of the item you want to remove:\n0. Apple  \n1.Hockey  \n2.Orange \n3.Cat \n4.watermalon");
+// var position = Number(prompt("Enter the position of the item you want to remove:\n0. Apple  \n1.Hockey  \n2.Orange \n3.Cat \n4.watermalon"));
 
 // var removedItem = products.splice(position, 1)[0];
 
